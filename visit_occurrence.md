@@ -13,7 +13,7 @@
 | visit_start_datetime |  |  |  |
 | visit_end_date | session_enddate |  |  |
 | visit_end_datetime |  |  |  |
-| visit_type_concept_id |  |  | 32879	Registry |
+| visit_type_concept_id |  |  | 32879 for Registry |
 | provider_id |  |  |  |
 | care_site_id | institution_code |  | Only put id for SGH here |
 | visit_source_value | admission_type |  |  |
@@ -37,7 +37,7 @@
 | visit_start_datetime |  |  |  |
 | visit_end_date |  |  |  |
 | visit_end_datetime |  |  |  |
-| visit_type_concept_id |  |  | 32879	Registry |
+| visit_type_concept_id |  |  | 32879 for Registry |
 | provider_id |  |  |  |
 | care_site_id |  |  | Only put id for SGH here |
 | visit_source_value |  |  |  |

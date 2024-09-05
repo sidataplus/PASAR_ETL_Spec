@@ -2,7 +2,7 @@
 
 ### Reading from pre_op__risk_index
 
-![](md_files/image10.png)
+![](md_files/image12.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -30,7 +30,7 @@
 
 ### Reading from pre_op__others
 
-![](md_files/image11.png)
+![](md_files/image13.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -58,7 +58,7 @@
 
 ### Reading from pre_op__char
 
-![](md_files/image12.png)
+![](md_files/image14.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |

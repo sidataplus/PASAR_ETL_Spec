@@ -1,6 +1,6 @@
 # Source Data Mapping Approach to CDMV5.4
 
-![](md_files/image18.png)
+![](md_files/image20.png)
 
 ## Contents
 
@@ -9,6 +9,8 @@
 [observation_period](observation_period.md)
 
 [visit_occurrence](visit_occurrence.md)
+
+[visit_detail](visit_detail.md)
 
 [condition_occurrence](condition_occurrence.md)
 

@@ -2,7 +2,7 @@
 
 ### Reading from intra_op__operation
 
-![](md_files/image17.png)
+![](md_files/image19.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
