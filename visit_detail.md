@@ -24,7 +24,7 @@
 | discharged_to_concept_id |  |  |  |
 | preceding_visit_detail_id |  |  |  |
 | parent_visit_detail_id |  |  |  |
-| visit_occurrence_id |  |  |  |
+| visit_occurrence_id | anon_case_no<br>session_id |  | Find matching case_no and session_id in table VISIT_OCCURRENCE for their VISIT_OCCURRENCE_ID |
 
 ### Reading from intra_op__operation
 
@@ -50,5 +50,5 @@
 | discharged_to_concept_id |  |  |  |
 | preceding_visit_detail_id |  |  |  |
 | parent_visit_detail_id |  |  |  |
-| visit_occurrence_id |  |  |  |
+| visit_occurrence_id |  |  | Find matching case_no and session_id in table VISIT_OCCURRENCE for their VISIT_OCCURRENCE_ID |
 
