@@ -2,7 +2,7 @@
 
 ### Reading from pre_op__risk_index
 
-![](md_files/image12.png)
+![](md_files/image21.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -30,7 +30,7 @@
 
 ### Reading from pre_op__others
 
-![](md_files/image13.png)
+![](md_files/image22.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -58,7 +58,7 @@
 
 ### Reading from pre_op__char
 
-![](md_files/image14.png)
+![](md_files/image23.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -86,7 +86,7 @@
 
 ### Reading from post_op__discharge
 
-![](md_files/image15.png)
+![](md_files/image24.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -114,7 +114,7 @@
 
 ### Reading from post_op__info
 
-![](md_files/image16.png)
+![](md_files/image25.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -142,7 +142,7 @@
 
 ### Reading from post_op__icu
 
-![](md_files/image17.png)
+![](md_files/image26.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -170,7 +170,7 @@
 
 ### Reading from post_op__renal
 
-![](md_files/image18.png)
+![](md_files/image27.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
