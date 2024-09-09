@@ -7,7 +7,7 @@
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
 | person_id | anon_case_no |  |  |
-| death_date | death_date |  |  |
+| death_date | death_date | SELECT * FROM post_op__info WHERE death_date IS NOT NULL; |  |
 | death_datetime |  |  |  |
 | death_type_concept_id |  |  | 32879	Registry |
 | cause_concept_id |  |  |  |
