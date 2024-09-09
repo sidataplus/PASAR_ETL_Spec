@@ -2,7 +2,7 @@
 
 ### Reading from intra_op__operation
 
-![](md_files/image16.png)
+![](md_files/image20.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -15,7 +15,7 @@
 
 ### Reading from post_op__discharge
 
-![](md_files/image17.png)
+![](md_files/image21.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -28,7 +28,7 @@
 
 ### Reading from post_op__icu
 
-![](md_files/image18.png)
+![](md_files/image22.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |

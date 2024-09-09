@@ -2,11 +2,11 @@
 
 ### Reading from post_op__info
 
-![](md_files/image15.png)
+![](md_files/image19.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
-| person_id | anon_case_no |  |  |
+| person_id | anon_case_no | Joined with PERSON.PERSON_SOURCE_VALUE for PERSON.PERSON_ID |  |
 | death_date | death_date | SELECT * FROM post_op__info WHERE death_date IS NOT NULL; |  |
 | death_datetime |  |  |  |
 | death_type_concept_id |  |  | 32879	Registry |
