@@ -14,6 +14,8 @@
 
 [condition_occurrence](condition_occurrence.md)
 
+[procedure_occurrence](procedure_occurrence.md)
+
 [measurement](measurement.md)
 
 [observation](observation.md)
