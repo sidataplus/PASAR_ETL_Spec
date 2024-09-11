@@ -2,7 +2,7 @@
 
 ### Reading from post_op__info
 
-![](md_files/image28.png)
+![](md_files/image29.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
