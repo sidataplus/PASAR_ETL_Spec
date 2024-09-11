@@ -1,6 +1,6 @@
 # Source Data Mapping Approach to CDMV5.4
 
-![](md_files/image34.png)
+![](md_files/image41.png)
 
 ## Contents
 
@@ -14,13 +14,21 @@
 
 [condition_occurrence](condition_occurrence.md)
 
+[drug_exposure](drug_exposure.md)
+
 [procedure_occurrence](procedure_occurrence.md)
+
+[device_exposure](device_exposure.md)
 
 [measurement](measurement.md)
 
 [observation](observation.md)
 
 [death](death.md)
+
+[note](note.md)
+
+[specimen](specimen.md)
 
 [care_site](care_site.md)
 
