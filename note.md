@@ -2,7 +2,7 @@
 
 ### Reading from post_op__clin_doc
 
-![](md_files/image35.png)
+![](md_files/image36.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |

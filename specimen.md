@@ -2,7 +2,7 @@
 
 ### Reading from post_op__lab_micro
 
-![](md_files/image36.png)
+![](md_files/image37.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |

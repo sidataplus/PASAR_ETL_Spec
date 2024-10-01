@@ -2,7 +2,7 @@
 
 ### Reading from pre_op__risk_index
 
-![](md_files/image28.png)
+![](md_files/image29.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -30,7 +30,7 @@
 
 ### Reading from pre_op__others
 
-![](md_files/image29.png)
+![](md_files/image30.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -58,7 +58,7 @@
 
 ### Reading from pre_op__char
 
-![](md_files/image30.png)
+![](md_files/image31.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -86,7 +86,7 @@
 
 ### Reading from post_op__discharge
 
-![](md_files/image31.png)
+![](md_files/image32.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -114,7 +114,7 @@
 
 ### Reading from post_op__info
 
-![](md_files/image32.png)
+![](md_files/image33.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -142,7 +142,7 @@
 
 ### Reading from post_op__icu
 
-![](md_files/image33.png)
+![](md_files/image34.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |

@@ -2,7 +2,7 @@
 
 ### Reading from pre_op__lab
 
-![](md_files/image19.png)
+![](md_files/image20.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -32,7 +32,7 @@
 
 ### Reading from pre_op__char
 
-![](md_files/image20.png)
+![](md_files/image21.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -62,7 +62,7 @@
 
 ### Reading from intra_op__aims_vitals
 
-![](md_files/image21.png)
+![](md_files/image22.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -92,7 +92,7 @@
 
 ### Reading from intra_op__operation
 
-![](md_files/image22.png)
+![](md_files/image23.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -122,7 +122,7 @@
 
 ### Reading from post_op__lab
 
-![](md_files/image23.png)
+![](md_files/image24.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -152,7 +152,7 @@
 
 ### Reading from post_op__labs_all
 
-![](md_files/image24.png)
+![](md_files/image25.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -182,7 +182,7 @@
 
 ### Reading from pre_op__others
 
-![](md_files/image25.png)
+![](md_files/image26.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -212,7 +212,7 @@
 
 ### Reading from pre_op__risk_index
 
-![](md_files/image26.png)
+![](md_files/image27.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -242,7 +242,7 @@
 
 ### Reading from intra_op__nur_vitals
 
-![](md_files/image27.png)
+![](md_files/image28.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
