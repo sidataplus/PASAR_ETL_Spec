@@ -2,7 +2,7 @@
 
 ### Reading from post_op__discharge
 
-![](md_files/image11.png)
+![](md_files/image10.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |

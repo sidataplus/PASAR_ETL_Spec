@@ -2,7 +2,7 @@
 
 ### Reading from intra_op__operation
 
-![](md_files/image15.png)
+![](md_files/image14.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -25,7 +25,7 @@
 
 ### Reading from post_op__renal
 
-![](md_files/image16.png)
+![](md_files/image15.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -48,7 +48,7 @@
 
 ### Reading from pre_op__radiology
 
-![](md_files/image17.png)
+![](md_files/image16.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |

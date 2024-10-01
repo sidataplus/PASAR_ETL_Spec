@@ -2,7 +2,7 @@
 
 ### Reading from post_op__icu
 
-![](md_files/image18.png)
+![](md_files/image17.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -28,7 +28,7 @@
 
 ### Reading from pre_op__risk_index
 
-![](md_files/image19.png)
+![](md_files/image18.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |

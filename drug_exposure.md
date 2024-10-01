@@ -2,7 +2,7 @@
 
 ### Reading from intra_op__drug_drug
 
-![](md_files/image12.png)
+![](md_files/image11.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -32,7 +32,7 @@
 
 ### Reading from intra_op__drug_fluids
 
-![](md_files/image13.png)
+![](md_files/image12.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
@@ -62,7 +62,7 @@
 
 ### Reading from intra_op__drug_med
 
-![](md_files/image14.png)
+![](md_files/image13.png)
 
 | Destination Field | Source field | Logic | Comment field |
 | --- | --- | --- | --- |
